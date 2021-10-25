@@ -1,1 +1,1 @@
-# Mechanical-Temple
+# Resonance-Temple
