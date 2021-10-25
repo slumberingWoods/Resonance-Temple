@@ -1,0 +1,19 @@
+1. Game Idea
+
+The game is Roleplay game where the player assume the role of a treasure hunter doing exploring a temple and doing puzzles in order to find the treasure at the end of the temple. The puzzles will start easy and will be come more complicated. Most of the puzzles will be relating to Java and Greenfoot. 
+
+2. Scenario and characters description
+
+There will be 5 puzzles. 
+
+3. Win/Lose Scenario
+
+The player loses when they get a wrong answer. 
+
+4. Inspiration
+
+Quiz games and Indiana Jones 
+
+5. Teamates
+
+I want people who want communicate efficiently.
