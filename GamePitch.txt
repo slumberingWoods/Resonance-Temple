@@ -1,14 +1,16 @@
 1. Game Idea
 
-The game is Roleplay game where the player assume the role of a treasure hunter doing exploring a temple and doing puzzles in order to find the treasure at the end of the temple. The puzzles will start easy and will be come more complicated. Most of the puzzles will be relating to Lanuages and Linguistics. 
+The game is Roleplay game where the player assume the role of a treasure hunter doing exploring a temple and doing puzzles in order to find the treasure at the end of the temple. The puzzles will start easy and will be come more complicated. Most of the puzzles will be relation to various other subjects like history, linguistics, math and other stuff. The answer will not be based on knowledge but rather investigation of the environment for clues and hints. 
 
 2. Scenario and characters description
 
-There will be 5 puzzles. 
+There will be 5 puzzles. Each puzzle is in a room with decoration and clues that relate to the answer to the puzzle. The players can interact with different decoations and clues for hints that will solve the puzzle. The player has 3 lives in each room and they regain 1 life every completed room. Once the 5 rooms are completed, the game is finished. 
+
+The main character is a treasure hunter who is perceptive about things whihc is why they comment about all of the decorations and items in the room. Otherwise they don't have anything to standout and is there as an avatar for the player to control and interact with everything around them. 
 
 3. Win/Lose Scenario
 
-The player loses when they get a wrong answer. 
+The player loses when they get a wrong answer and they have remaining lives. 
 
 4. Inspiration
 
